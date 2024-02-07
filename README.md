@@ -8,8 +8,8 @@
 <a href="https://github.com/devilhazretleri">
   <img align="left" alt="Vighnesh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.instagram.com/@flrstgod/">
-  <img align="left" alt="@flrstgod Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/flrstgod/">
+  <img align="left" alt="flrstgod Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 
