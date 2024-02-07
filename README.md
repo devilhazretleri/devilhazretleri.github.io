@@ -1,4 +1,4 @@
-## Merhaba ben [devilhazretleri] 👋
+## Merhaba ben, devilhazretleri 👋
 
 ![](https://komarev.com/ghpvc/?username=devilhazretleri)
 
@@ -16,10 +16,8 @@
 <br/>
 <br/>
 
-
-- 🤔 Favori alıntım: "Dünya umurumda değil!"
-- 💬 Ask me about  ,Python,JavaScript.
-- 📫 How to reach me: [email](mailto:devilhazretleri@gmail.com),
+- 💬 Bana her şeyi sormaktan çekinmeyin; Yardım etmek için buradayım.
+- 💼 Serbest çalışma fırsatlarına açık [email me](mailto:devilhazretleri@gmail.com),
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/flrstgod)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/polatalemdar330)
@@ -31,22 +29,22 @@
 </a>
 
 
-### Diller ve araçlar:  
-
+**Diller ve araçlar:**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <br/>
 
 <a href="https://github.com/devilhazretleri">
-<img align="center" src="https://imagedelivery.net/jx4kBRxB5X0ZqZJVZBbWzA/4863c342-f682-408d-40a6-a7c127950100/1920x1080" />
+<img align="center" src="https://imagedelivery.net/jx4kBRxB5X0ZqZJVZBbWzA/fbbe831d-9469-4b06-444e-b611f5d9ab00/1920x1080" />
 </a>
 
 
-### we are anonymous !
 
 
 
