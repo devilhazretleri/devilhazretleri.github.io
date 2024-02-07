@@ -17,7 +17,7 @@
 <br/>
 
 - 💬 Bana her şeyi sormaktan çekinmeyin; Yardım etmek için buradayım.
-- 💼 Serbest çalışma fırsatlarına açık [email me](mailto:devilhazretleri@gmail.com),
+- 💼 Serbest çalışma fırsatlarına açık [email ](mailto:devilhazretleri@gmail.com),
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/flrstgod)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/polatalemdar330)
