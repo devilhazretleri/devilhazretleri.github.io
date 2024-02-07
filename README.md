@@ -1,4 +1,4 @@
-## Hi, I'm [devilhazretleri] 👋
+## Merhaba [devilhazretleri] 👋
 
 ![](https://komarev.com/ghpvc/?username=devilhazretleri)
 
@@ -8,8 +8,8 @@
 <a href="https://github.com/devilhazretleri">
   <img align="left" alt="Vighnesh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.instagram.com/flrstgod">
-  <img align="left" alt="flrstgod Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/@flrstgod/">
+  <img align="left" alt="@flrstgod Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 
@@ -17,8 +17,8 @@
 <br/>
 
 
-- 🤔 My favourite quote: `Fuck the world !`
-- 💬 Ask me about Computer Vision,Flutter,Python,Tf,CyberSecurity.
+- 🤔 Favori alıntım: "Dünya umurumda değil!"
+- 💬 Ask me about  ,Python,JavaScript.
 - 📫 How to reach me: [email](mailto:devilhazretleri@gmail.com),
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/flrstgod)
