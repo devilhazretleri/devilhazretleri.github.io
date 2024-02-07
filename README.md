@@ -1,4 +1,4 @@
-## Merhaba [devilhazretleri] 👋
+## Merhaba ben [devilhazretleri] 👋
 
 ![](https://komarev.com/ghpvc/?username=devilhazretleri)
 
