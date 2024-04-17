@@ -1,0 +1,20 @@
+{
+    "caches": [
+      {
+        "id": "google",
+        "name": "Google AMP Cache",
+        "docs": "https://developers.google.com/amp/cache/",
+        "cacheDomain": "cdn.ampproject.org/",
+        "updateCacheApiDomainSuffix": "www-p-ode-com.cdn.ampproject.org/",
+        "thirdPartyFrameDomainSuffix": "p-ode.com"
+      },
+      {
+        "id": "bing",
+        "name": "Bing AMP Cache",
+        "docs": "https://www.bing.com/webmaster/help/bing-amp-cache-bc1c884c",
+        "cacheDomain": "www-p-ode-com",
+        "updateCacheApiDomainSuffix": "www-p-ode.com",
+        "thirdPartyFrameDomainSuffix": "www.bing-amp.com"
+      }
+    ]
+  }

@@ -1,0 +1,6 @@
+default-src https:;
+script-src https: 'unsafe-eval' 'unsafe-inline';
+style-src https: 'unsafe-inline';
+img-src https: data:;
+font-src https: data:;
+report-uri /csp-report;

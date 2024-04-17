@@ -1,0 +1,19 @@
+{
+  "name": "Mersin Escort",
+  "short_name": "Mersin Eskort",
+  "dil": "tr",
+  "başlangıç_url'si": "/",
+  "tema_rengi": "#000",
+  "simgeler": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "boyutlar": "192x192",
+      "type": "resim/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "boyutlar": "512x512",
+      "type": "resim/png"
+    }
+  ]
+}
